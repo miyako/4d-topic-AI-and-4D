@@ -44,4 +44,13 @@
 * on Mac, goto "System Settings > Desktop and Dock" and change the default browser to [Chrome, Edge or Firefox](https://developer.4d.com/docs/WebServer/qodly-studio)
 * goto Design > Qodly Studio…  
   * **Note**: the menu item is title  "Web Studio…" in 4D 20 LTS. the item does not appear if a valid *4D Developer Professional* licence is not installed
+* in Qodly Studio, find the "run" tool in "Explorer > Pages > demo"
+  * there is an ominous warning messsage "The Server and Client app Schemes don't match"
+<img src="https://github.com/user-attachments/assets/79409240-7e12-4a15-a22e-15cb94f5e329" width=500 height=auto />
+
+* click the button anyway
+
+<img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
+
+
   
