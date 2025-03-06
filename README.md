@@ -75,3 +75,8 @@
 
 <img src="https://github.com/user-attachments/assets/f57b9641-2a65-49d1-997d-daf67ee53877" width=500 height=auto />
 
+* notice the warning in line `10`
+
+> The function or property generateText does not exist on type cs.GroqHandler. (550.2) 
+
+<img src="https://github.com/user-attachments/assets/ed7c77c9-1c41-4a89-92de-e99c7d94b85e" width=500 height=auto />
