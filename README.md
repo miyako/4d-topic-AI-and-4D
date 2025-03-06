@@ -7,5 +7,5 @@
 * goto https://groq.com/
 * create an account with email
 * check inbox
-
 <img src="https://github.com/user-attachments/assets/67038dab-8bdf-4e1d-a860-ec29c17d5481" width=500 height=auto />
+* create key
