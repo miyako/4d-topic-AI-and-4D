@@ -67,4 +67,8 @@
 <img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
 
 * the "Preview in studio" tool is part of the studio and has access to data **without authentication**.
+* type in the instructions. you should get an error. this is because the API key to call groq is not set in code.
+ 
+<img src="https://github.com/user-attachments/assets/095d281e-c6ed-4054-bfc9-05acfabb8b71" width=500 height=auto />
+
 
