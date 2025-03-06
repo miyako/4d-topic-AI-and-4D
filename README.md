@@ -47,7 +47,7 @@ notes from [4D Method User Group Meeting #77](https://4dmethod.com/2025/02/27/4d
 
 * on Mac, goto "System Settings > Desktop and Dock" and change the default browser to [Chrome, Edge or Firefox](https://developer.4d.com/docs/WebServer/qodly-studio)
 * goto Design > Qodly Studio…  
-  * **Note**: the menu item is title  "Web Studio…" in 4D 20 LTS. the item does not appear if a valid *4D Developer Professional* licence is not installed
+  * **Note**: the menu item is titled  "Web Studio…" in 4D 20 LTS. the item does not appear if a valid *4D Developer Professional* licence is not installed
  
 * click "Data"
 
