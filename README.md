@@ -22,3 +22,10 @@
 * open `AIDemo.4DProject` with latest 4D 20 Feature Request (R8 100240 as of today) 
 * when asked to specify data file click "Open" and select data file
   * Data/AIDemo.4DD
+* goto File > Web Administration > Settings…
+
+<img src="https://github.com/user-attachments/assets/c360291a-4951-4128-8430-739e45b55ea6" width=500 height=auto />
+
+* click "Reset to factory settings"
+
+<img src="https://github.com/user-attachments/assets/0ae368e5-1313-4215-b3ab-034a0a8fb266" width=500 height=auto />
