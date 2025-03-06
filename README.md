@@ -53,14 +53,15 @@
 
 <img src="https://github.com/user-attachments/assets/55dad93d-6f3f-4698-9601-39520bb57125" width=500 height=auto />
 
-* in Qodly Studio, find the "run" tool in "Explorer > Pages > demo"
-  * there is an ominous warning messsage "The Server and Client app Schemes don't match"
-<img src="https://github.com/user-attachments/assets/79409240-7e12-4a15-a22e-15cb94f5e329" width=500 height=auto />
+* return to Qodly Studio
+* find "Preview in studio" tool
 
-* click the button anyway
+<img src="https://github.com/user-attachments/assets/05479fcb-88ef-4b2f-8d33-09710e5c6ae5" width=500 height=auto />
+
+* this is different from the "run" tool has an ominous warning messsage "The Server and Client app Schemes don't match". if you click it, you be warned about the descrepancy
 
 <img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
 
-* the page seems to render but there is an error and a warning in the console
- 
-<img src="https://github.com/user-attachments/assets/d5214216-da19-4fbf-b7c6-fdfc1f5cf7d8" width=500 height=auto />
+* the "Preview in studio" tool is part of the studio and has access to data **without authentication**.
+
+<img src="https://github.com/user-attachments/assets/257bcf57-2fc3-4e88-ad5d-b0612750d68d" width=500 height=auto />
