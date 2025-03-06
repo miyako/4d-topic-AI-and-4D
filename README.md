@@ -58,10 +58,13 @@
 
 <img src="https://github.com/user-attachments/assets/05479fcb-88ef-4b2f-8d33-09710e5c6ae5" width=500 height=auto />
 
-* this is different from the "run" tool has an ominous warning messsage "The Server and Client app Schemes don't match". if you click it, you be warned about the descrepancy
+* this is different from the "run" tool has an ominous warning messsage "The Server and Client app Schemes don't match".
+
+<img src="https://github.com/user-attachments/assets/257bcf57-2fc3-4e88-ad5d-b0612750d68d" width=500 height=auto />
+
+* if you click on the "run" tool, you will be warned about the descrepancy.
 
 <img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
 
 * the "Preview in studio" tool is part of the studio and has access to data **without authentication**.
 
-<img src="https://github.com/user-attachments/assets/257bcf57-2fc3-4e88-ad5d-b0612750d68d" width=500 height=auto />
