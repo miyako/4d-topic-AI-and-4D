@@ -29,3 +29,15 @@
 * click "Reset to factory settings"
 
 <img src="https://github.com/user-attachments/assets/0ae368e5-1313-4215-b3ab-034a0a8fb266" width=500 height=auto />
+
+* activate "Launch WebAdmin server at startup"
+* activate "Enable access to Qodly Studio"
+* click "Define (Access key)"
+* enter secret string
+
+<img src="https://github.com/user-attachments/assets/807a4e42-49b2-4451-993b-0fc71272e009" width=300 height=auto />
+
+* click "OK" and restart interpreted
+
+<img src="https://github.com/user-attachments/assets/20c881c4-ee63-4f39-bb4f-108649cb1e71" width=300 height=auto />
+
