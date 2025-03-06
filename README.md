@@ -67,7 +67,7 @@
 <img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
 
 * the "Preview in studio" tool is part of the studio and has access to data **without authentication**.
-* type in the instructions. you should get an error. this is because the API key to call groq is not set in code.
+* type in the prompt ""show me all invoices for hiroshi". you should get an error. this is because the API key to call groq is not set in code.
  
 <img src="https://github.com/user-attachments/assets/095d281e-c6ed-4054-bfc9-05acfabb8b71" width=500 height=auto />
 
@@ -75,8 +75,21 @@
 
 <img src="https://github.com/user-attachments/assets/f57b9641-2a65-49d1-997d-daf67ee53877" width=500 height=auto />
 
-* notice the warning in line `10`
+* notice the warning in line `10`. evidently this part is unfinished.
 
 > The function or property generateText does not exist on type cs.GroqHandler. (550.2) 
 
 <img src="https://github.com/user-attachments/assets/ed7c77c9-1c41-4a89-92de-e99c7d94b85e" width=500 height=auto />
+
+* try again. this time a valid JSON is returned from groq but unlike the demo no data is found.
+
+<img src="https://github.com/user-attachments/assets/2118e16a-b968-499c-88f0-5635a38a7214" width=500 height=auto />
+
+* the same query works with other common western names
+
+<img src="https://github.com/user-attachments/assets/d3299b19-8431-4611-bed1-a87b54d43c16" width=500 height=auto />
+
+* so you can guess that a more explict prompt e.g. "show me all invoices for a person whose name is "hiroshi""
+
+<img src="https://github.com/user-attachments/assets/a9dc6e6f-57b8-450b-896c-0af8d50d34f1" width=500 height=auto />
+
