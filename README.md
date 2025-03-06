@@ -104,7 +104,7 @@ notes from [4D Method User Group Meeting #77](https://4dmethod.com/2025/02/27/4d
 
 * maybe you can add a computed attribute to search for either names. just a thought.
 
-* the page is designed to display a list of contacts and their invoices, as opposed to a list of invoices and their contacts. so the list of invoices is populated in this example but not the list of contacts. it was like this in the demo. 
+* the page is designed to display a list of contacts and their invoices, as opposed to a list of invoices and their contacts. so the list of invoices is populated in this example but not the list of contacts. it was like this in the demo. the components are independent and either one is used to display a list of invoices or contacts as a collection.
 
 * now try "show me all contacts whose age > 30"
 
