@@ -52,5 +52,14 @@
 
 <img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
 
+* the page seems to render but there is an error and a warning in the console
+ 
+<img src="https://github.com/user-attachments/assets/d5214216-da19-4fbf-b7c6-fdfc1f5cf7d8" width=500 height=auto />
+
+* error `:8080/web.ico:1`
+> Failed to load resource: the server responded with a status of 404 (Not Found)
+* warning `components.js?t=1741242656512:1`
+> Unsatisfied version 0.3.67 from @qodly/studio of shared singleton module @ws-ui/webform-editor (required =0.3.28)
+
 
   
