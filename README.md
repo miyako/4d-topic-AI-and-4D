@@ -71,4 +71,7 @@
  
 <img src="https://github.com/user-attachments/assets/095d281e-c6ed-4054-bfc9-05acfabb8b71" width=500 height=auto />
 
+* in 4D, paste the API keys in place of the string `<add your key here>`
+
+<img src="https://github.com/user-attachments/assets/f57b9641-2a65-49d1-997d-daf67ee53877" width=500 height=auto />
 
