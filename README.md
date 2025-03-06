@@ -39,5 +39,5 @@
 
 * click "OK" and restart interpreted
 
-<img src="https://github.com/user-attachments/assets/20c881c4-ee63-4f39-bb4f-108649cb1e71" width=300 height=auto />
+<img src="https://github.com/user-attachments/assets/20c881c4-ee63-4f39-bb4f-108649cb1e71" width=500 height=auto />
 
