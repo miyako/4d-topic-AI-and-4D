@@ -62,7 +62,7 @@
 
 <img src="https://github.com/user-attachments/assets/257bcf57-2fc3-4e88-ad5d-b0612750d68d" width=500 height=auto />
 
-* if you click on the "run" tool, you will be warned about the descrepancy.
+* if you click on the "run" tool, you will be warned about the descrepancy. but more importantly, any attempt to access data will systematically fail because there are no previligies defined in *roles.json* and `ds.authentify()` is not implemented in the application.
 
 <img src="https://github.com/user-attachments/assets/694da473-d421-4432-b8cb-3d91aac82612" width=250 height=auto />
 
@@ -93,3 +93,10 @@
 
 <img src="https://github.com/user-attachments/assets/a9dc6e6f-57b8-450b-896c-0af8d50d34f1" width=500 height=auto />
 
+* now try "show me all contacts whose age > 30"
+
+<img src="https://github.com/user-attachments/assets/ce82c11a-fb61-488e-bf46-532855fcc260" width=500 height=auto />
+
+* also try "show me all contacts who is about to turn 30"
+
+<img src="https://github.com/user-attachments/assets/ad61b8ac-be18-4f15-ac15-59a622103661" width=500 height=auto />
