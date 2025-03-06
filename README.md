@@ -1,9 +1,5 @@
 # 4d-topic-AI-and-4D
 
-* goto https://github.com/rmello4d/AI-4dmethod
-* fork repository or download zip
-* unarchive `AI-4dmethod-main.zip`
-* read `README.md`
 * goto https://groq.com/
 * create an account with email
 * check inbox
@@ -13,3 +9,14 @@
 * click "Create API Key" and create a private API key for the demo application
 
 <img src="https://github.com/user-attachments/assets/57586462-701e-4022-ba5c-b8e2bcf8b7a7" width=500 height=auto />
+
+* goto https://github.com/rmello4d/AI-4dmethod
+* fork repository or download zip
+* unarchive `AI-4dmethod-main.zip`
+* unarchive `AIDemo4Dmethod.zip`
+* delete preferences folders
+  * userPreferences.pc
+  * userPreferences.Wakanda 2.0
+* delete other detritus
+  * Project/DerivedData
+* open `AIDemo.4DProject` with latest 4D 20 Feature Request (R8 100240 as of today) 
