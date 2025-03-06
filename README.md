@@ -89,7 +89,7 @@
 
 <img src="https://github.com/user-attachments/assets/d3299b19-8431-4611-bed1-a87b54d43c16" width=500 height=auto />
 
-* so you can guess that a more explict prompt e.g. "show me all invoices for a person whose name is "hiroshi""
+* so you can guess that a more explict prompt e.g. "show me all invoices for a person whose name is "hiroshi"" would have a better chance.
 
 <img src="https://github.com/user-attachments/assets/a9dc6e6f-57b8-450b-896c-0af8d50d34f1" width=500 height=auto />
 
