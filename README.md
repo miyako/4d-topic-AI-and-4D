@@ -97,6 +97,13 @@ notes from [4D Method User Group Meeting #77](https://4dmethod.com/2025/02/27/4d
 
 <img src="https://github.com/user-attachments/assets/a9dc6e6f-57b8-450b-896c-0af8d50d34f1" width=500 height=auto />
 
+* to go deeper, place a break point in line `33` of `cs.GroqHandler.generateData()`
+* run the earlier query. you will see that groq has inferred that "hiroshi" is likely a last name, not a first name.
+
+<img src="https://github.com/user-attachments/assets/a0273544-7fba-4dff-88c6-22289758284d" width=500 height=auto />
+
+* maybe you can add a computed attribute to search for either names. just a thought.
+
 * the page is designed to display a list of contacts and their invoices, as opposed to a list of invoices and their contacts. so the list of invoices is populated in this example but not the list of contacts. it was like this in the demo. 
 
 * now try "show me all contacts whose age > 30"
