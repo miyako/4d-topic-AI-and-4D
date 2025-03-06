@@ -97,6 +97,8 @@ notes from [4D Method User Group Meeting #77](https://4dmethod.com/2025/02/27/4d
 
 <img src="https://github.com/user-attachments/assets/a9dc6e6f-57b8-450b-896c-0af8d50d34f1" width=500 height=auto />
 
+* the page is designed to disply a list of contacts and their invoices, as opposed to a list of invoices and their contacts. so the list of invoices is populated in this example but not the list of contacts.
+
 * now try "show me all contacts whose age > 30"
 
 <img src="https://github.com/user-attachments/assets/ce82c11a-fb61-488e-bf46-532855fcc260" width=500 height=auto />
