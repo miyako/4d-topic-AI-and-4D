@@ -44,6 +44,15 @@
 * on Mac, goto "System Settings > Desktop and Dock" and change the default browser to [Chrome, Edge or Firefox](https://developer.4d.com/docs/WebServer/qodly-studio)
 * goto Design > Qodly Studio…  
   * **Note**: the menu item is title  "Web Studio…" in 4D 20 LTS. the item does not appear if a valid *4D Developer Professional* licence is not installed
+ 
+* click "Data"
+
+<img src="https://github.com/user-attachments/assets/1d8cff1b-ddb6-40e2-82e3-f2c5d3e2e983" width=250 height=auto />
+
+* Data Explorer is displayed
+
+<img src="https://github.com/user-attachments/assets/55dad93d-6f3f-4698-9601-39520bb57125" width=500 height=auto />
+
 * in Qodly Studio, find the "run" tool in "Explorer > Pages > demo"
   * there is an ominous warning messsage "The Server and Client app Schemes don't match"
 <img src="https://github.com/user-attachments/assets/79409240-7e12-4a15-a22e-15cb94f5e329" width=500 height=auto />
