@@ -2,6 +2,8 @@
 
 notes from [4D Method User Group Meeting #77](https://4dmethod.com/2025/02/27/4d-and-ai-bring-the-power-of-llms-to-your-4d-applications-ricardo-mello/)
 
+## The Qodly Demo
+
 * goto https://groq.com/
 * create an account with email
 * check inbox
