@@ -20,4 +20,5 @@
 * delete other detritus
   * Project/DerivedData
 * open `AIDemo.4DProject` with latest 4D 20 Feature Request (R8 100240 as of today) 
-* when asked to specify data file click "Open" and select Data/AIDemo.4DD
+* when asked to specify data file click "Open" and select data file
+  * Data/AIDemo.4DD
