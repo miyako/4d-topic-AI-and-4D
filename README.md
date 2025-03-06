@@ -62,7 +62,7 @@ notes from [4D Method User Group Meeting #77](https://4dmethod.com/2025/02/27/4d
 
 <img src="https://github.com/user-attachments/assets/05479fcb-88ef-4b2f-8d33-09710e5c6ae5" width=500 height=auto />
 
-* this is different from the "run" tool has an ominous warning messsage "The Server and Client app Schemes don't match".
+* this is different from the "run" tool which has an ominous warning messsage "The Server and Client app Schemes don't match".
 
 <img src="https://github.com/user-attachments/assets/257bcf57-2fc3-4e88-ad5d-b0612750d68d" width=500 height=auto />
 
